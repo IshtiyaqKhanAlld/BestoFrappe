@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include bestofrappe *.css
+recursive-include bestofrappe *.csv
+recursive-include bestofrappe *.html
+recursive-include bestofrappe *.ico
+recursive-include bestofrappe *.js
+recursive-include bestofrappe *.json
+recursive-include bestofrappe *.md
+recursive-include bestofrappe *.png
+recursive-include bestofrappe *.py
+recursive-include bestofrappe *.svg
+recursive-include bestofrappe *.txt
+recursive-exclude bestofrappe *.pyc
