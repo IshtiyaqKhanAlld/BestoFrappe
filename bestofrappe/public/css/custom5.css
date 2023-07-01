@@ -20,7 +20,7 @@
     border: 1px solid var(--border-color);
 }
 .search-bar .awesomplete input {
-    background-color: var(--bg-color)
+    background-color: #100EE8;
 }
 .modal-backdrop{
     background-color: #2c436b !important;
