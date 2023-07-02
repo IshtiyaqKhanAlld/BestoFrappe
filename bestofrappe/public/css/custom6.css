@@ -73,15 +73,15 @@
     max-width: 100%;
     height: 100%;
     padding: 7px;
-    background-color: #0F76BC;
+    background-color: #0F76BC !important;
 }
 /*****  OVERRIDDEN CSS  *****/
 
 /* Heading Text Color */
 /*
 .page-head{
-    background: #7C7BAD !important;
-    background: #7C7BAD !important;
+    background: #0F76BC !important;
+    background: #0F76BC !important;
 }
 .page-container{
     background: url(/web_responsive/static/src/css/../img/home-menu-bg-overlay.svg), linear-gradient(to bottom, #7C7BAD, #c3c2cc); !important;
