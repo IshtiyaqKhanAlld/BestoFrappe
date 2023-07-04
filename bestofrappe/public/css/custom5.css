@@ -16,6 +16,22 @@
 .awesomplete .input-with-feedback {
     border: 1px solid var(--border-color);
 }
+#tab header of the forms 
+.form-tabs-sticky-down {
+    top: calc(var(--navbar-height) + var(--page-head-height) - 1px);
+}
+.form-tabs-list {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    left: 0;
+    background-color: #266ad1;
+    z-index: 5;
+    transition: .5s top;
+    padding-left: var(--padding-xs);
+    border-bottom: 2px solid var(--border-color);
+    border-radius: var(--border-radius-md) var(--border-radius-md) 0 0;
+}
 
 .form-control {
     border: 1px solid var(--border-color);
