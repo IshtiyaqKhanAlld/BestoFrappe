@@ -11,7 +11,7 @@ app_license = "MIT"
 # ------------------
 
 # include js, css files in header of desk.html
-app_include_css = "/assets/bestofrappe/css/custom6.css"
+app_include_css = "/assets/bestofrappe/css/custom5.css"
 # app_include_js = "/assets/bestofrappe/js/bestofrappe.js"
 
 # include js, css files in header of web template
