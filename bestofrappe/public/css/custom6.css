@@ -69,6 +69,10 @@
     --scroll-color: #d9dfe6;
 }
 
+[data-page-route=Workspaces] .codex-editor .codex-editor__redactor .ce-block .ce-block__content .widget.ce-paragraph {
+    display: block;
+    background: #20d353;
+}
 [data-page-route=Workspaces] .codex-editor .codex-editor__redactor .ce-block .ce-block__content {
     max-width: 100%;
     height: 100%;
