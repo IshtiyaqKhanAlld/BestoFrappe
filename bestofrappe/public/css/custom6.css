@@ -23,7 +23,9 @@
 .form-tabs-list {
     position: -webkit-sticky;
     position: sticky;
-    background-color: #26d129;
+    top: 0;
+    left: 0;
+    background-color: #F7931E;
     z-index: 5;
     transition: .5s top;
     padding-left: var(--padding-xs);
